@@ -10,4 +10,4 @@ Submitting the same or substantially similar work in multiple courses, either in
 
 I acknowledge that a failure to abide by NYU Stern Honor Code will result in a failing grade for the project and course.
 
-Project Description:
+Project Description: Our project focuses on analyzing the different attributes of the wines reviewed by the Wine Enthusiast magazine. We focus on analyzing how the different countries of origin, pricing, grape varieties, and descriptions compare to the scores given to the wines. We also test our hypothesis about the length of a wine's description and its possible correlation to the type of scoring it receives.
